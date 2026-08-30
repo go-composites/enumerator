@@ -4,7 +4,7 @@ go 1.26.4
 
 require (
 	github.com/go-composites/array v0.0.0-20260621062820-1aa11b71d5d6
-	github.com/go-composites/error v0.0.0-20260621061850-8f949885a586
+	github.com/go-composites/error v0.0.0-20260830075421-e9e68493eded
 	github.com/go-composites/result v0.0.0-20260621061851-32adc2fb3ac2
 )
 
