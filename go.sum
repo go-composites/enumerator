@@ -6,6 +6,8 @@ github.com/go-composites/array v0.0.0-20260830124236-135dbfbadd64 h1:Blh9YKwQYHt
 github.com/go-composites/array v0.0.0-20260830124236-135dbfbadd64/go.mod h1:IFGON73gOXTEau7Nmm2gPtNCOE1ks2Xii9JXutdnCd8=
 github.com/go-composites/array v0.0.0-20260831064122-5109ee981461 h1:YtJUPL5DKmzChZuoqziSbTiat9HFz56o/qwwkJ9r9bo=
 github.com/go-composites/array v0.0.0-20260831064122-5109ee981461/go.mod h1:YVUPnJf/9/PbYu+n/oMFceRKaXMlw4pSoFFHn4CZ35g=
+github.com/go-composites/array v0.0.0-20260831114605-5aa51a1a6fe5 h1:Is/sT4Hj0mVYE8YTwI1OnYbZVP78WkcFlHCjFjEaFTg=
+github.com/go-composites/array v0.0.0-20260831114605-5aa51a1a6fe5/go.mod h1:vaBWcFcbTxFK+S3w2Ni3xlKjq74KXM5JsIuHTyRFdaI=
 github.com/go-composites/error v0.0.0-20260621061850-8f949885a586 h1:gA6h4DA7NSiDoqwYDMUlQ2LO/dWx3VBq41nHIMQJskI=
 github.com/go-composites/error v0.0.0-20260621061850-8f949885a586/go.mod h1:9Lf1BQDdG/DDzw+WaWctBOzk69PTLjREAiPcKfSUilU=
 github.com/go-composites/error v0.0.0-20260830075421-e9e68493eded h1:lVkmXqI0GyJ7qfCXL9RptTb9HhCIh+2dsXoQ6N2N8BE=
