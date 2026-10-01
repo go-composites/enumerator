@@ -1,7 +1,7 @@
 github.com/Masterminds/semver/v3 v3.4.0 h1:Zog+i5UMtVoCU8oKka5P7i9q9HgrJeGzI9SA1Xbatp0=
 github.com/Masterminds/semver/v3 v3.4.0/go.mod h1:4V+yj/TJE1HU9XfppCwVMZq3I84lprf4nC11bSS5beM=
-github.com/go-composites/array v0.0.0-20260927173101-add77aa5108b h1:nGW+PR5B0hjZP8QUexgb4t/wYHkNjkWow6odYIoh4lI=
-github.com/go-composites/array v0.0.0-20260927173101-add77aa5108b/go.mod h1:dYCJ84vso1YpSH2KzXB5BfVn2xcsrSZdFufKHJKNDbs=
+github.com/go-composites/array v0.0.0-20260929012314-b34dd2208c46 h1:QKl9KoohqddvNC9PaNmYza9tXtMYznp9ijqj0q7WRxc=
+github.com/go-composites/array v0.0.0-20260929012314-b34dd2208c46/go.mod h1:dTLkPz3urunXt2WkDGt8JOIg599mr7ngRUVZYpVbHdo=
 github.com/go-composites/error v0.0.0-20260926002113-8ebf8341ff74 h1:rsAKabYMWmJmKKSfzwgGeWq04/bLz4LoPk7KU7qjOW8=
 github.com/go-composites/error v0.0.0-20260926002113-8ebf8341ff74/go.mod h1:kDkZO/jA+1YjdNuH46mZs442IZrntOY70oiaX8hS8l8=
 github.com/go-composites/null v0.0.0-20260903220223-c1d743488d23 h1:CrztNkLeRiOTNW7QIIASY7bjwUiK78iUxgYbUpoyIWI=
