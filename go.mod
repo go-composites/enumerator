@@ -3,12 +3,12 @@ module github.com/go-composites/enumerator
 go 1.27.1
 
 require (
-	github.com/go-composites/array v0.0.0-20260929012314-b34dd2208c46
-	github.com/go-composites/error v0.0.0-20260926002113-8ebf8341ff74
-	github.com/go-composites/result v0.0.0-20260927170344-f2c7344faeef
+	github.com/go-composites/array v0.0.0-20261008012822-b187ea4ffff3
+	github.com/go-composites/error v0.0.0-20261004233631-3186f2071cf7
+	github.com/go-composites/result v0.0.0-20261006020718-14f01380a20a
 )
 
 require (
-	github.com/go-composites/null v0.0.0-20260903220223-c1d743488d23 // indirect
+	github.com/go-composites/null v0.0.0-20261004234613-b811f56c1c66 // indirect
 	golang.org/x/tools v0.46.0 // indirect
 )
